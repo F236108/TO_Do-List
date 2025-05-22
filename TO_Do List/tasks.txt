@@ -3,3 +3,4 @@ Assign of DLD ;Uni work;1
 EMS Final exam prep;uni work;0
 DLD Assign ;Uni work;1
 EMS Final exam ;paper;1
+cricket match ; activity;0
